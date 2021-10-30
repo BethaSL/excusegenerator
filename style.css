@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: purple;
+}
+
+p {
+    font-size: xx-large;
+    font-weight: bold;
+    color: seashell;
+}
+
+img{
+    size: 20px;
+}
